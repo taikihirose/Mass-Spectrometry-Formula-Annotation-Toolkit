@@ -5,5 +5,5 @@ This project is a toolkit for analyzing mass spectrometry (MS) data to generate 
 2. **SIRIUS**
 3. **MSBUDDY**
 4. Additionally, it merges results from these tools, calculates scores, and outputs the consolidated results.
-5. ***
-6. 
+***
+ 
