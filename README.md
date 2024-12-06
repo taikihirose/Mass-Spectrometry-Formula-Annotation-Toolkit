@@ -62,3 +62,43 @@ The project consists of the following Python scripts:
 1. **Run the project:**
    ```bash
    python main.py
+
+You will be prompted to provide the input file path and SIRIUS login credentials during execution.
+
+2. **Output Result**
+・ Consolidated results will be saved as a CSV file in the summary_output directory.
+・ Scored results will be output as rescoring_formula.csv.
+
+---
+
+## Requirements
+**・ Python 3.12+**
+**・ External tools**
+・ MS-FINDER
+・ SIRIUS
+・ MSBUDDY
+
+# Project Folder Structure
+
+## Required Files and Directories
+
+To properly set up and run the project, ensure the following files and directories are present and correctly placed:
+
+### 1. Directories
+- **`msfinder/`**  
+  This directory should contain the MS-FINDER software version 3.60. Place the software's executable and related files inside this folder.  
+
+  **Download from Google Drive**: [Google Drive](https://drive.google.com/drive/folders/0AIZ5vTceA0LvUk9PVA)
+
+- **`sirius4/`**  
+  This directory should contain the SIRIUS version 4 software. Include the `sirius.exe` file and all necessary subfolders provided by the software installation.  
+
+  **Download from Google Drive**: [Google Drive](https://drive.google.com/drive/folders/0AIZ5vTceA0LvUk9PVA)
+
+---
+
+## Folder Structure Example
+
+Below is an example of how the project directory should look:
+
+
